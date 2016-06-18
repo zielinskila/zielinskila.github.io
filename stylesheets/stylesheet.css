@@ -113,6 +113,9 @@ a {
   margin-bottom: 1rem;
   font-weight: normal;
   color: #159957; }
+.main-content h3.my-header {
+color: #ff3300;
+}  
 .main-content p {
   margin-bottom: 1em; }
 .main-content code {
